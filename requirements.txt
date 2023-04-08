@@ -1,0 +1,7 @@
+seaborn
+dtale
+pandas-profiling
+sweetviz
+autoviz
+dataprep
+
